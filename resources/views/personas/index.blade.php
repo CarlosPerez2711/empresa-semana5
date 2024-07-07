@@ -43,7 +43,6 @@
         </tbody>
     </table>
 
-    <!-- Agregar enlaces de paginación -->
     {{ $personas->links() }}
 </body>
 </html>
